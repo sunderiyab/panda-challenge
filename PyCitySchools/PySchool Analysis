@@ -1,0 +1,12 @@
+# analysis on PyCitySchools
+Written Report (15 points)
+
+To receive all points, the written report presents a cohesive written analysis that:
+Summarizes the analysis (5 points)
+
+There are total of 15 school that included in the dataset and i worked on finding the total of students, school budget, average math and reading scores, passing math and reading counts and lastly found the overall passing rate. There are 8 out of 15 is charter, and 7 out of 15 is district type of school. Based on my analysis, we can see that charter schools outperform the district schools by lot of points on their acedemic level. Charter schools might have the better resources or students support systems that contributed to the academic success. 
+
+
+Draws two correct conclusions or comparisons from the calculations (10 points)
+ Lastly, school size is matters to the academic success as well. Smaller schools tends to have a higher average math and reading scores. 
+ and larger schools tend to have a less average math and reading scores. from this conclusion, i can see that teachers from small school connected to their students one on one more often and really helped them to achieve to get a higher level of education.  
